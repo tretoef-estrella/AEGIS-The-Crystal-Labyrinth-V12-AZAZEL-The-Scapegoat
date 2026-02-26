@@ -1,6 +1,8 @@
-# AEGIS — The Crystal Labyrinth v12: AZAZEL — "The Scapegoat" presents to you "The Manifold Bridge"
+# AEGIS — The Crystal Labyrinth v12: AZAZEL — "The Scapegoat"
 
 > *"The bridge looked safe. The destination was visible. Every step forward was correct. And that is exactly why you will never arrive."*
+
+![AZAZEL — The Manifold Bridge](Gemini_Generated_Image_3klkf3klkf3klkf3.png)
 
 **AEGIS AZAZEL** is a post-quantum cryptographic streaming oracle built on the projective geometry PG(11,4). It wraps the static wall of [GORGON v16](https://github.com/tretoef-estrella/AEGIS-The-Crystal-Labyrinth-v11-GORGON-The-Static-Freeze) with a dynamic, adaptive defense layer that mutates the objective function based on attacker behavior. The system doesn't block the attacker — it **infects their logic**.
 
@@ -67,8 +69,8 @@ The attacker doesn't know they've been defeated. They know their hardware is bro
 # Zero dependencies. Just Python 3.
 cd ~/Downloads && python3 AEGIS_AZAZEL_V5_BEAST4.py
 ```
-[AEGIS_AZAZEL_V5_BEAST4.py](https://github.com/tretoef-estrella/AEGIS-The-Crystal-Labyrinth-V12-AZAZEL-The-Scapegoat/blob/main/AEGIS_AZAZEL_V5_BEAST4.py)
-Full output in under 3 seconds. No NumPy. No SageMath. No excuses.
+
+Full output in under 3 seconds. No NumPy. No SageMath. No excuses. → [**Run the code**](https://github.com/tretoef-estrella/AEGIS-The-Crystal-Labyrinth-V12-AZAZEL-The-Scapegoat/blob/main/AEGIS_AZAZEL_V5_BEAST4.py)
 
 ---
 
@@ -154,7 +156,9 @@ This system was built through genuine collaboration between a human architect an
 
 ---
 
-**Author:** Rafael Amichis Luengo — *The Architect*  
+**Designed by:** Rafa — *The Architect*  
+**Engine:** Claude (Anthropic)  
+**Auditors:** Gemini (Google) · ChatGPT (OpenAI) · Grok (xAI)  
 **Project:** [Proyecto Estrella](https://github.com/tretoef-estrella) · Error Code Lab  
 **Contact:** [tretoef@gmail.com](mailto:tretoef@gmail.com)
 
