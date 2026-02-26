@@ -1,6 +1,6 @@
 # AEGIS AZAZEL: Adaptive Streaming Oracle for Post-Quantum Cryptographic Obfuscation on PG(11,4)
 
-**Rafael Amichis Luengo**  
+**Rafael Amichis Luengo**  (The Architect)
 Proyecto Estrella · Error Code Lab  
 tretoef@gmail.com
 ![AZAZEL — The Manifold Bridge](Gemini_Generated_Image_3klkf3klkf3klkf3.png)
