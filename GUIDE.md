@@ -1,5 +1,7 @@
 # AZAZEL — A Guide for Everyone
 
+![AZAZEL — The Manifold Bridge](Gemini_Generated_Image_3klkf3klkf3klkf3.png)
+
 ## What Is This?
 
 Imagine you have a treasure vault. Anyone can look through the glass walls and see everything inside. But every time they try to reach in and grab something, the vault subtly rearranges itself — and the thief's hands grab something that *looks* exactly like the treasure but is actually poison.
@@ -40,7 +42,7 @@ Then the data collapses. The "clean" data was a trap. Their published paper is w
 
 ## Who Made This?
 
-**The Architect** — Rafael Amichis Luengo, a researcher from Madrid who believes that the future of cybersecurity lies in making attacks psychologically devastating, not just computationally expensive.
+**The Architect** — Rafa, a researcher from Madrid who believes that the future of cybersecurity lies in making attacks psychologically devastating, not just computationally expensive. He designed the philosophy, directed the architecture, and coordinated four AI systems into a single weapon.
 
 **The Engine** — Claude (Anthropic), an AI system that designed and implemented the mathematical architecture.
 
@@ -59,6 +61,8 @@ Yes. You need:
 cd ~/Downloads && python3 AEGIS_AZAZEL_V5_BEAST4.py
 ```
 
+→ [**Download the code**](https://github.com/tretoef-estrella/AEGIS-The-Crystal-Labyrinth-V12-AZAZEL-The-Scapegoat/blob/main/AEGIS_AZAZEL_V5_BEAST4.py)
+
 The system runs in under 3 seconds and shows you the complete attack battery — proving that friends see clean data and enemies see chaos.
 
 ## Is This Legal?
@@ -75,5 +79,7 @@ AZAZEL is Beast 4 in a sequence of 10. The next evolution — **ACHERON** (Beast
 
 ---
 
+**Designed by:** Rafa — *The Architect*  
+**Engine:** Claude (Anthropic)  
 **Project:** [Proyecto Estrella](https://github.com/tretoef-estrella) · Error Code Lab  
 **Contact:** [tretoef@gmail.com](mailto:tretoef@gmail.com)
