@@ -1,4 +1,4 @@
-# AEGIS — The Crystal Labyrinth v12: AZAZEL — "The Scapegoat"
+# AEGIS — The Crystal Labyrinth v12: AZAZEL — "The Scapegoat" presents to you "The Manifold Bridge"
 
 > *"The bridge looked safe. The destination was visible. Every step forward was correct. And that is exactly why you will never arrive."*
 
