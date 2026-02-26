@@ -67,7 +67,7 @@ The attacker doesn't know they've been defeated. They know their hardware is bro
 # Zero dependencies. Just Python 3.
 cd ~/Downloads && python3 AEGIS_AZAZEL_V5_BEAST4.py
 ```
-
+[AEGIS_AZAZEL_V5_BEAST4.py](https://github.com/tretoef-estrella/AEGIS-The-Crystal-Labyrinth-V12-AZAZEL-The-Scapegoat/blob/main/AEGIS_AZAZEL_V5_BEAST4.py)
 Full output in under 3 seconds. No NumPy. No SageMath. No excuses.
 
 ---
