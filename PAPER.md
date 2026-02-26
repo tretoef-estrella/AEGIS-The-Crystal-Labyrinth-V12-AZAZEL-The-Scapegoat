@@ -3,6 +3,7 @@
 **Rafael Amichis Luengo**  
 Proyecto Estrella · Error Code Lab  
 tretoef@gmail.com
+![AZAZEL — The Manifold Bridge](Gemini_Generated_Image_3klkf3klkf3klkf3.png)
 
 **Abstract.** We present AEGIS AZAZEL, a post-quantum cryptographic streaming oracle that wraps a static code-based obfuscation system (GORGON) with an adaptive defense layer operating over the projective geometry PG(11,4). The system exploits the 287-bit symmetry group GL(12,GF(4)) to implement seven independent defense mechanisms ("Hells") that mutate the oracle's response surface based on attacker query behavior. Unlike traditional cryptographic defenses that aim to prevent information leakage, AZAZEL deliberately leaks information that is mathematically consistent but computationally poisoned — causing algebraic solvers to enter infinite expansion, statistical analyzers to converge on false solutions, and the attacker's own validation tools to confirm incorrect results. The system achieves 100% authorized-user fidelity, 74.6% contradiction injection rate, and a runtime of 2.3 seconds in pure Python with zero external dependencies. Three independent AI auditors (Gemini, ChatGPT, Grok) unanimously approved the system for production deployment after adversarial testing.
 
