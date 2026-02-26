@@ -1,13 +1,16 @@
 # AEGIS AZAZEL: Adaptive Streaming Oracle for Post-Quantum Cryptographic Obfuscation on PG(11,4)
 
-**Rafael Amichis Luengo**  (The Architect)
+**Rafael Amichis Luengo — *The Architect***  
 Proyecto Estrella · Error Code Lab  
 tretoef@gmail.com
+
 ![AZAZEL — The Manifold Bridge](Gemini_Generated_Image_3klkf3klkf3klkf3.png)
 
 **Abstract.** We present AEGIS AZAZEL, a post-quantum cryptographic streaming oracle that wraps a static code-based obfuscation system (GORGON) with an adaptive defense layer operating over the projective geometry PG(11,4). The system exploits the 287-bit symmetry group GL(12,GF(4)) to implement seven independent defense mechanisms ("Hells") that mutate the oracle's response surface based on attacker query behavior. Unlike traditional cryptographic defenses that aim to prevent information leakage, AZAZEL deliberately leaks information that is mathematically consistent but computationally poisoned — causing algebraic solvers to enter infinite expansion, statistical analyzers to converge on false solutions, and the attacker's own validation tools to confirm incorrect results. The system achieves 100% authorized-user fidelity, 74.6% contradiction injection rate, and a runtime of 2.3 seconds in pure Python with zero external dependencies. Three independent AI auditors (Gemini, ChatGPT, Grok) unanimously approved the system for production deployment after adversarial testing.
 
 **Keywords:** post-quantum cryptography, projective geometry, streaming oracle, adaptive defense, code-based cryptography, PG(11,4), Desarguesian spread, Gröbner basis poisoning, human-AI collaboration
+
+**Source code:** [AEGIS_AZAZEL_V5_BEAST4.py](https://github.com/tretoef-estrella/AEGIS-The-Crystal-Labyrinth-V12-AZAZEL-The-Scapegoat/blob/main/AEGIS_AZAZEL_V5_BEAST4.py)
 
 ---
 
@@ -249,6 +252,9 @@ The broader contribution is methodological: this work demonstrates that genuine 
 
 ---
 
+**Designed by:** Rafa — *The Architect*  
+**Engine:** Claude (Anthropic)  
+**Auditors:** Gemini (Google) · ChatGPT (OpenAI) · Grok (xAI)  
 **License:** BSL 1.1 + Azazel Clause (permanent ethical restriction)  
 **Project:** Proyecto Estrella · Error Code Lab  
 **Contact:** tretoef@gmail.com  
